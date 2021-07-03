@@ -1,2 +1,2 @@
 # InteractiveSmoothingDBT
-Code for the paper MICCAI 2021 paper
+Code for the paper MICCAI 2021 paper: Interactive Smoothing Parameter Optimizationin DBT Reconstruction using Deep learning
