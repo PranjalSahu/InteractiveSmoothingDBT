@@ -1,7 +1,7 @@
 # InteractiveSmoothingDBT
 
-![UNet](https://github.com/PranjalSahu/InteractiveSmoothingDBT/blob/main/unet2.png)
-![ScreenShot](https://github.com/PranjalSahu/InteractiveSmoothingDBT/blob/main/intro1.png)
+![UNet](https://github.com/PranjalSahu/InteractiveSmoothingDBT/blob/main/unet2.png "UNet Modification")
+![ScreenShot](https://github.com/PranjalSahu/InteractiveSmoothingDBT/blob/main/intro1.png "Result on Walnut CT sample")
 
 Coming Soon...<br>
 Code for the paper MICCAI 2021 paper: Interactive Smoothing Parameter Optimizationin DBT Reconstruction using Deep learning
