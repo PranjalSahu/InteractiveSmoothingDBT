@@ -7,8 +7,8 @@ It introduces modifications in U-Net which allows it to filter the input for a g
 ![UNet](https://github.com/PranjalSahu/InteractiveSmoothingDBT/blob/main/unet2.png "UNet Modification")
 ![ScreenShot](https://github.com/PranjalSahu/InteractiveSmoothingDBT/blob/main/intro1.png "Result on Walnut CT sample")
 
-Coming Soon...<br>
-Code for the MICCAI 2021 paper: [Interactive Smoothing Parameter Optimizationin DBT Reconstruction using Deep learning](https://www.researchgate.net/publication/352998652_Interactive_Smoothing_Parameter_Optimization_in_DBT_Reconstruction_using_Deep_learning)
+
+Jupyter Notebook for the MICCAI 2021 paper: [Interactive Smoothing Parameter Optimizationin DBT Reconstruction using Deep learning](https://www.researchgate.net/publication/352998652_Interactive_Smoothing_Parameter_Optimization_in_DBT_Reconstruction_using_Deep_learning)
 
 
 ## References
