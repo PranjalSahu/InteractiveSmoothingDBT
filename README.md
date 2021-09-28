@@ -20,11 +20,11 @@ Pranjal Sahu (psahu@cs.stonybrook.edu)
 
 
 ## Citation
-@inproceedings{sahu2021interactive,
-  title={Interactive Smoothing Parameter Optimization in DBT Reconstruction Using Deep Learning},
-  author={Sahu, Pranjal and Huang, Hailiang and Zhao, Wei and Qin, Hong},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={57--67},
-  year={2021},
-  organization={Springer}
-}
+  @inproceedings{sahu2021interactive,
+    title={Interactive Smoothing Parameter Optimization in DBT Reconstruction Using Deep Learning},
+    author={Sahu, Pranjal and Huang, Hailiang and Zhao, Wei and Qin, Hong},
+    booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+    pages={57--67},
+    year={2021},
+    organization={Springer}
+  }
