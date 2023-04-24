@@ -10,6 +10,7 @@ It introduces modifications in U-Net which allows it to filter the input for a g
 
 Jupyter Notebook for the MICCAI 2021 paper: [Interactive Smoothing Parameter Optimizationin DBT Reconstruction using Deep learning](https://www.researchgate.net/publication/352998652_Interactive_Smoothing_Parameter_Optimization_in_DBT_Reconstruction_using_Deep_learning)
 
+Sample images and beta values are uploaded as ground_sample.zip and value_sample.zip.
 
 ## References
 <b>Public Walnut CT dataset<b>
